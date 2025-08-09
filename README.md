@@ -18,7 +18,7 @@ infectious-diseases-by-county-year-and-sex.csv
 ## Quickstart
 ```bash
 pip install -r requirements.txt
-python src/pipeline.py
+python pipeline.py
 ```
 
 ## Settings
