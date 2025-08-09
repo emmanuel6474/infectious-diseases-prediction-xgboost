@@ -1,0 +1,6 @@
+pandas>=1.5
+numpy>=1.21
+matplotlib>=3.5
+xgboost>=1.7
+tqdm>=4.64
+shap>=0.43

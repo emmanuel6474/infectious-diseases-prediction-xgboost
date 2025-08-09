@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Jupyter
+.ipynb_checkpoints
+
+# Data
+*.csv
+*.xlsx
+*.xls
+*.parquet
+*.feather
+*.h5
+*.db
+
+# Output & artifacts
+*.png
+*.jpg
+*.jpeg
+*.json
+*.txt
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
